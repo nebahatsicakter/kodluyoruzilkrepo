@@ -30,4 +30,4 @@ istediğinizi tartışmak için bir konu açınız.
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 
-![](file:///C:/Users/nebah/OneDrive/Masa%C3%BCst%C3%BC/manzara-fotografi.webp)
+![](/guzel-manzara-fotografciligi.jpg)
